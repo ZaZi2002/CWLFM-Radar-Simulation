@@ -1,6 +1,6 @@
 # CWLFM Radar Simulation
 
-This MATLAB project simulates Continuous Wave Linear Frequency Modulation (CWLFM) radar. The simulation includes generating triangular LFM signals, adding noise, and performing matched filtering. The results are visualized through various plots showing different stages of the signal processing.
+This MATLAB project is for Communication Systems course and simulates Continuous Wave Linear Frequency Modulation (CWLFM) radar. The simulation includes generating triangular LFM signals, adding noise, and performing matched filtering. The results are visualized through various plots showing different stages of the signal processing.
 
 ## Project Structure
 
